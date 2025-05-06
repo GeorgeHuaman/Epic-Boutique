@@ -1,0 +1,11 @@
+Model Information:
+* title:	String Necklace
+* source:	https://sketchfab.com/3d-models/string-necklace-1b8f6caaa1bf49eeb00960b79c9a3cc7
+* author:	eeelabvisual (https://sketchfab.com/eeelabvisual)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "String Necklace" (https://sketchfab.com/3d-models/string-necklace-1b8f6caaa1bf49eeb00960b79c9a3cc7) by eeelabvisual (https://sketchfab.com/eeelabvisual) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

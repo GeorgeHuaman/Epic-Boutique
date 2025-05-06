@@ -1,0 +1,11 @@
+Model Information:
+* title:	Decahedron Bracelet
+* source:	https://sketchfab.com/3d-models/decahedron-bracelet-050e16e18feb4ac4b2ce5235141c97e6
+* author:	plasmeo3d (https://sketchfab.com/plasmeo3d)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Decahedron Bracelet" (https://sketchfab.com/3d-models/decahedron-bracelet-050e16e18feb4ac4b2ce5235141c97e6) by plasmeo3d (https://sketchfab.com/plasmeo3d) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
