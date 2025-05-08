@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -19,21 +20,41 @@ public class SelectManager : MonoBehaviour
     {
         for (int i = 0; i < bangles.Count; i++)
         {
-            dress[i].SetActive(i == index);
+            bangles[i].SetActive(i == index);
+            
         }
     }
     public void SelectNecklaces(int index)
     {
         for (int i = 0; i < necklaces.Count; i++)
         {
-            dress[i].SetActive(i == index);
+            necklaces[i].SetActive(i == index);
         }
     }
     public void SelectHats(int index)
     {
         for (int i = 0; i < hats.Count; i++)
         {
-            dress[i].SetActive(i == index);
+            hats[i].SetActive(i == index);
+        }
+    }
+    public void SetActiveFalse()
+    {
+        for (int i = 0; i < dress.Count; i++)
+        {
+            dress[i].SetActive(false);
+        }
+        for (int i = 0; i < bangles.Count; i++)
+        {
+            bangles[i].SetActive(false);
+        }
+        for (int i = 0; i < hats.Count; i++)
+        {
+            hats[i].SetActive(false);
+        }
+        for (int i = 0; i < necklaces.Count; i++)
+        {
+            necklaces[i].SetActive(false);
         }
     }
 }

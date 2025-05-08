@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\salas\\Documents\\Repositorios\\Epic-Boutique\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0965B4BB-1EE1-417B-C5BA-E8F7A7D0D506}|NewAssembly.csproj|c:\\users\\salas\\documents\\repositorios\\epic-boutique\\assets\\scripts\\selectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0965B4BB-1EE1-417B-C5BA-E8F7A7D0D506}|NewAssembly.csproj|solutionrelative:assets\\scripts\\selectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C4716AC-B95F-F0C4-CBF1-20D6A182857E}|Assembly-CSharp.csproj|c:\\users\\salas\\documents\\repositorios\\epic-boutique\\assets\\scripts\\selectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4716AC-B95F-F0C4-CBF1-20D6A182857E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\selectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4716AC-B95F-F0C4-CBF1-20D6A182857E}|Assembly-CSharp.csproj|c:\\users\\salas\\documents\\repositorios\\epic-boutique\\assets\\scripts\\rotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4716AC-B95F-F0C4-CBF1-20D6A182857E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salas\\Documents\\Repositorios\\Tema-9-Epic\\Assets\\Scripts\\Rotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0965B4BB-1EE1-417B-C5BA-E8F7A7D0D506}|NewAssembly.csproj|C:\\Users\\salas\\Documents\\Repositorios\\Epic-Boutique\\assets\\scripts\\rotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0965B4BB-1EE1-417B-C5BA-E8F7A7D0D506}|NewAssembly.csproj|solutionrelative:assets\\scripts\\rotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,7 +25,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Rotate.cs",
               "DocumentMoniker": "C:\\Users\\salas\\Documents\\Repositorios\\Tema-9-Epic\\Assets\\Scripts\\Rotate.cs",
               "RelativeDocumentMoniker": "..\\Tema-9-Epic\\Assets\\Scripts\\Rotate.cs",
@@ -33,11 +33,12 @@
               "RelativeToolTip": "..\\Tema-9-Epic\\Assets\\Scripts\\Rotate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T04:33:47.429Z"
+              "WhenOpened": "2025-05-08T04:33:47.429Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Rotate.cs",
               "DocumentMoniker": "C:\\Users\\salas\\Documents\\Repositorios\\Epic-Boutique\\Assets\\Scripts\\Rotate.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Rotate.cs",
@@ -45,7 +46,8 @@
               "RelativeToolTip": "Assets\\Scripts\\Rotate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T04:33:37.202Z"
+              "WhenOpened": "2025-05-08T04:33:37.202Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -55,7 +57,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\SelectManager.cs",
               "ToolTip": "C:\\Users\\salas\\Documents\\Repositorios\\Epic-Boutique\\Assets\\Scripts\\SelectManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\SelectManager.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBcAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwC8AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-07T00:15:51.805Z",
               "EditorCaption": ""
