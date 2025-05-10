@@ -3,7 +3,117 @@ guid: 44f05501d23378a448241bde18ae9c92
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BLACK
+    second: {fileID: 2100000, guid: 11dd70ad78af1f44aafc66ef661a3c4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: COKLAT
+    second: {fileID: 2100000, guid: 462d79710b7c1ba428b4cf887568fd1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GOLD
+    second: {fileID: 2100000, guid: b340a8d26af436840a42a633c3c05381, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.120
+    second: {fileID: 2100000, guid: cab783230a9883548b4f395c3c5f9260, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rose_Accessories_-_Gold
+    second: {fileID: 2100000, guid: 14d944730cb8de547bc8e3a82ae33df1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Silver
+    second: {fileID: 2100000, guid: ecff20a6eb8f32d4d9992a3232d5f64a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WHITE
+    second: {fileID: 2100000, guid: 79db730ad75aea04d9b2198220b485d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wolf3D_Body.014
+    second: {fileID: 2100000, guid: 64f17b90e5eeec744a86d1b8a73607dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wolf3D_Eye.014
+    second: {fileID: 2100000, guid: 5302700b10e6b4e42b35f222c010195f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wolf3D_Hair.006
+    second: {fileID: 2100000, guid: eaed89c2d3731e5468d33cb99c1cd704, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wolf3D_Outfit_Bottom.013
+    second: {fileID: 2100000, guid: 4aaa4ef601ff15f49acfc407d967ba42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wolf3D_Outfit_Footwear.001
+    second: {fileID: 2100000, guid: 8ca15ab82e7e014468e22aeccea9f303, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wolf3D_Outfit_Top.014
+    second: {fileID: 2100000, guid: 0ff3319d222bfd946bd611315e53fcdf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wolf3D_Skin.014
+    second: {fileID: 2100000, guid: 8db2dd594fced114e831135abb0cfd34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blue
+    second: {fileID: 2100000, guid: 601c7270ca8c7a8418569fbea729abaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: green
+    second: {fileID: 2100000, guid: 549b15234bb9b1542b1b3731d86d8563, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material_0
+    second: {fileID: 2100000, guid: 7210ecb0c71bdf04995bfeb42800290a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: necklace._blue
+    second: {fileID: 2100000, guid: f821e174be084cd4ab8aa560fc722c6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: orange
+    second: {fileID: 2100000, guid: 2df877b5f27c99748b54a1ee49c4214c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong2
+    second: {fileID: 2100000, guid: 89a459247bfcb024988c9db413fc9472, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong3
+    second: {fileID: 2100000, guid: 14ef1c794f2b1864e9ffeadcee53c719, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: yellow
+    second: {fileID: 2100000, guid: 96e2ddabf56899d45aacc4fd9a91259c, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
