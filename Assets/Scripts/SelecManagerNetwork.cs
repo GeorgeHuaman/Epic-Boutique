@@ -10,7 +10,6 @@ public class SelecManagerNetwork : SpatialNetworkBehaviour, IVariablesChanged
     public List<GameObject> dress;
     public List<GameObject> bangles;
     public List<GameObject> necklaces;
-    public List<GameObject> hats;
     private NetworkVariable<bool> dresss = new (initialValue: false);
     private NetworkVariable<bool> bangless = new(initialValue: false);
     private NetworkVariable<bool> necklacess = new(initialValue: false);
@@ -18,7 +17,6 @@ public class SelecManagerNetwork : SpatialNetworkBehaviour, IVariablesChanged
     private NetworkVariable<int> adress = new(initialValue: 0);
     private NetworkVariable<int> bang = new(initialValue: 0);
     private NetworkVariable<int> neck = new(initialValue: 0);
-    private NetworkVariable<int> ha = new(initialValue: 0);
     public void SelectDress(int index)
     {
         GiveControl();
@@ -49,23 +47,12 @@ public class SelecManagerNetwork : SpatialNetworkBehaviour, IVariablesChanged
         //}
         necklacess.value = true;
     }
-    public void SelectHats(int index)
-    {
-        GiveControl();
-        hatss.value = false;
-        //for (int i = 0; i < hats.Count; i++)
-        //{
-        //    hats[i].SetActive(i == manager.hat);
-        //}
-        hatss.value = true;
-    }
 
     public void ManagerEntry()
     {
         GiveControl();
         adress.value=manager.dress;
         bang.value = manager.bangles;
-        ha.value = manager.hat;
         neck.value = manager.necklaces;
     }
     public void GiveControl()
@@ -84,16 +71,6 @@ public class SelecManagerNetwork : SpatialNetworkBehaviour, IVariablesChanged
             }
             if(hasControl)
               dresss.value = true;
-        }
-        if (args.changedVariables.ContainsKey(ha.id))
-        {
-            Debug.LogError("hatss");
-            for (int i = 0; i < hats.Count; i++)
-            {
-              hats[i].SetActive(i == ha);
-            }
-            if (hasControl)
-                hatss.value = true;
         }
         if (args.changedVariables.ContainsKey(neck.id))
         {

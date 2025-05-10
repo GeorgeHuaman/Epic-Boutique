@@ -3,27 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\salas\\Documents\\Repositorios\\Epic-Boutique\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ED492FCF-963D-A08C-304F-1B58DE9AD944}|CreatorToolkitCustomScripts.csproj|c:\\users\\salas\\documents\\repositorios\\epic-boutique\\assets\\scripts\\selecmanagernetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED492FCF-963D-A08C-304F-1B58DE9AD944}|CreatorToolkitCustomScripts.csproj|solutionrelative:assets\\scripts\\selecmanagernetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0965B4BB-1EE1-417B-C5BA-E8F7A7D0D506}|NewAssembly.csproj|c:\\users\\salas\\documents\\repositorios\\epic-boutique\\assets\\scripts\\selecmanagernetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0965B4BB-1EE1-417B-C5BA-E8F7A7D0D506}|NewAssembly.csproj|solutionrelative:assets\\scripts\\selecmanagernetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED492FCF-963D-A08C-304F-1B58DE9AD944}|CreatorToolkitCustomScripts.csproj|c:\\users\\salas\\documents\\repositorios\\epic-boutique\\assets\\scripts\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED492FCF-963D-A08C-304F-1B58DE9AD944}|CreatorToolkitCustomScripts.csproj|solutionrelative:assets\\scripts\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0965B4BB-1EE1-417B-C5BA-E8F7A7D0D506}|NewAssembly.csproj|c:\\users\\salas\\documents\\repositorios\\epic-boutique\\assets\\scripts\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0965B4BB-1EE1-417B-C5BA-E8F7A7D0D506}|NewAssembly.csproj|solutionrelative:assets\\scripts\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0965B4BB-1EE1-417B-C5BA-E8F7A7D0D506}|NewAssembly.csproj|C:\\Users\\salas\\Documents\\Repositorios\\Epic-Boutique\\assets\\scripts\\selectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0965B4BB-1EE1-417B-C5BA-E8F7A7D0D506}|NewAssembly.csproj|solutionrelative:assets\\scripts\\selectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salas\\Documents\\Repositorios\\Tema-9-Epic\\Assets\\Scripts\\Rotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED492FCF-963D-A08C-304F-1B58DE9AD944}|CreatorToolkitCustomScripts.csproj|C:\\Users\\salas\\Documents\\Repositorios\\Epic-Boutique\\assets\\scripts\\active.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED492FCF-963D-A08C-304F-1B58DE9AD944}|CreatorToolkitCustomScripts.csproj|solutionrelative:assets\\scripts\\active.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0965B4BB-1EE1-417B-C5BA-E8F7A7D0D506}|NewAssembly.csproj|C:\\Users\\salas\\Documents\\Repositorios\\Epic-Boutique\\assets\\scripts\\active.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0965B4BB-1EE1-417B-C5BA-E8F7A7D0D506}|NewAssembly.csproj|solutionrelative:assets\\scripts\\active.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED492FCF-963D-A08C-304F-1B58DE9AD944}|CreatorToolkitCustomScripts.csproj|C:\\Users\\salas\\Documents\\Repositorios\\Epic-Boutique\\assets\\scripts\\rotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED492FCF-963D-A08C-304F-1B58DE9AD944}|CreatorToolkitCustomScripts.csproj|solutionrelative:assets\\scripts\\rotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED492FCF-963D-A08C-304F-1B58DE9AD944}|CreatorToolkitCustomScripts.csproj|C:\\Users\\salas\\Documents\\Repositorios\\Epic-Boutique\\assets\\scripts\\selectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED492FCF-963D-A08C-304F-1B58DE9AD944}|CreatorToolkitCustomScripts.csproj|solutionrelative:assets\\scripts\\selectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0965B4BB-1EE1-417B-C5BA-E8F7A7D0D506}|NewAssembly.csproj|C:\\Users\\salas\\Documents\\Repositorios\\Epic-Boutique\\assets\\scripts\\rotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0965B4BB-1EE1-417B-C5BA-E8F7A7D0D506}|NewAssembly.csproj|solutionrelative:assets\\scripts\\rotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,7 +37,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Active.cs",
               "DocumentMoniker": "C:\\Users\\salas\\Documents\\Repositorios\\Epic-Boutique\\Assets\\Scripts\\Active.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Active.cs",
@@ -55,14 +55,14 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Manager.cs",
               "ToolTip": "C:\\Users\\salas\\Documents\\Repositorios\\Epic-Boutique\\Assets\\Scripts\\Manager.cs",
               "RelativeToolTip": "Assets\\Scripts\\Manager.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAxwDAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-08T23:31:05.088Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Rotate.cs",
               "DocumentMoniker": "C:\\Users\\salas\\Documents\\Repositorios\\Tema-9-Epic\\Assets\\Scripts\\Rotate.cs",
               "RelativeDocumentMoniker": "..\\Tema-9-Epic\\Assets\\Scripts\\Rotate.cs",
@@ -74,7 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Rotate.cs",
               "DocumentMoniker": "C:\\Users\\salas\\Documents\\Repositorios\\Epic-Boutique\\Assets\\Scripts\\Rotate.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Rotate.cs",
@@ -98,22 +98,23 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\SelecManagerNetwork.cs",
               "ToolTip": "C:\\Users\\salas\\Documents\\Repositorios\\Epic-Boutique\\Assets\\Scripts\\SelecManagerNetwork.cs",
               "RelativeToolTip": "Assets\\Scripts\\SelecManagerNetwork.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAqwEUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwDYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-09T01:17:54.549Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "SelectManager.cs",
               "DocumentMoniker": "C:\\Users\\salas\\Documents\\Repositorios\\Epic-Boutique\\Assets\\Scripts\\SelectManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SelectManager.cs",
               "ToolTip": "C:\\Users\\salas\\Documents\\Repositorios\\Epic-Boutique\\Assets\\Scripts\\SelectManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\SelectManager.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwAUAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwCkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T00:15:51.805Z"
+              "WhenOpened": "2025-05-07T00:15:51.805Z",
+              "EditorCaption": ""
             }
           ]
         }

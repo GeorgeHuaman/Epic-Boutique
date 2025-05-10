@@ -9,7 +9,6 @@ public class Manager : MonoBehaviour
     public int dress ;
     public int bangles;
     public int necklaces;
-    public int hat;
 
 
     public void SelectDress(int index)
@@ -35,14 +34,6 @@ public class Manager : MonoBehaviour
             selectManager[i].SelectNecklaces(index);
         }
         necklaces= index;
-    }
-    public void SelectHats(int index)
-    {
-        for (int i = 0; i < selectManager.Length; i++)
-        {
-            selectManager[i].SelectHats(index);
-        }
-        hat = index;
     }
 
 }
